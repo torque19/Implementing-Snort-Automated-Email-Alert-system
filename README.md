@@ -1,4 +1,4 @@
-# Implementing Snort-Automated-Alert-system
+# Implementing Snort-Automated-Email-Alert-system
 This is Python Script written by Tushar Jha(torque19) that automate the alert system of Snort 
 This Script detect the DOS and DDOS attack by initialising Keyword related to attack in the alert file of snort
 If any attack Detected then it send the alert file to the administrator through E-mail.
